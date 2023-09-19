@@ -1,0 +1,8 @@
+{
+  "name": "Banco",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Clóvis Chakrian <clovischakriandev@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
